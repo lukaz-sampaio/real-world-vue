@@ -19,21 +19,14 @@
 </template>
 
 <script>
+import { formFieldMixin } from "../mixins/formFieldMixin";
+
 export default {
+  mixins: [formFieldMixin],
   props: {
-    label: {
-      type: String,
-      default: ""
-    },
-    value: [String, Number],
     options: {
       type: Array,
       required: true
-    }
-  },
-  methods: {
-    updateValue(event) {
-      this.$emit("input", event.target.value);
     }
   }
 };
