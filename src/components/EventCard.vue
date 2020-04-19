@@ -8,7 +8,7 @@
         O "{{ value }}" chama-se interpolação. Serve pra obter os
         valores do javascript ao invés de entender que é apenas uma String qualquer.
       -->
-      <span class="eyebrow">@{{ event.time }} on {{ event.date }}</span>
+      <span class="eyebrow">@{{ event.time }} on {{ event.date | date }}</span>
       <h4 class="title">{{ event.title }}</h4>
       <BaseIcon name="users">{{ event.attendees.length }} attending</BaseIcon>
     </div>
