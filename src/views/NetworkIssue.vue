@@ -5,7 +5,9 @@
       it looks like you're experiencing some ntwork issue, please click the back
       button and try again.
     </h3>
-    <router-link :to="{ name: 'event-list' }">Or go back to the Home Page</router-link>
+    <router-link :to="{ name: 'event-list' }"
+      >Or go back to the Home Page</router-link
+    >
   </div>
 </template>
 
@@ -13,5 +15,4 @@
 export default {};
 </script>
 
-<style scoped>
-</style>
+<style scoped></style>

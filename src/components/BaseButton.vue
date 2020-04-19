@@ -1,6 +1,11 @@
 <template>
   <div>
-    <button v-on="$listeners" v-bind="$attrs" class="button" :class="buttonClass">
+    <button
+      v-on="$listeners"
+      v-bind="$attrs"
+      class="button"
+      :class="buttonClass"
+    >
       <slot></slot>
     </button>
     <!-- <input type="submit" class="button -fill-gradient" value="Submit" /> -->

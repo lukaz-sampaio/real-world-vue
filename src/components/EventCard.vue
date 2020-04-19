@@ -1,5 +1,8 @@
 <template>
-  <router-link class="event-link" :to="{ name: 'event-show', params: { id: event.id } }">
+  <router-link
+    class="event-link"
+    :to="{ name: 'event-show', params: { id: event.id } }"
+  >
     <div class="event-card -shadow">
       <!--
         O "{{ value }}" chama-se interpolação. Serve pra obter os

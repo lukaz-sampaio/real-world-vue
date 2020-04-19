@@ -1,13 +1,19 @@
 <template>
   <div class="field">
     <label v-if="label">{{ label }}</label>
-    <select :value="value" @change="updateValue" v-bind="$attrs">
+    <select
+      :value="value"
+      v-on="$listeners"
+      @change="updateValue"
+      v-bind="$attrs"
+    >
       <option
         v-for="option in options"
         :key="option"
         :value="option"
         :selected="option === value"
-      >{{ option }}</option>
+        >{{ option }}</option
+      >
     </select>
   </div>
 </template>
@@ -32,4 +38,3 @@ export default {
   }
 };
 </script>
-
