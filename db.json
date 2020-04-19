@@ -1,0 +1,303 @@
+{
+  "events": [
+    {
+      "id": 5928101,
+      "user": {
+        "id": "abc123",
+        "name": "Adam"
+      },
+      "category": "animal welfare",
+      "organizer": "Adam",
+      "title": "Cat Cabaret",
+      "description": "Yay felines!",
+      "location": "Meow Town",
+      "date": "2019-01-03T21:54:00.000Z",
+      "time": "2:00",
+      "attendees": []
+    },
+    {
+      "id": 8419988,
+      "user": {
+        "id": "abc123",
+        "name": "Adam"
+      },
+      "category": "animal welfare",
+      "organizer": "Adam",
+      "title": "Kitty Cluster",
+      "description": "Yay cats!",
+      "location": "Catlandia",
+      "date": "2019-01-31T22:09:00.000Z",
+      "time": "7:00",
+      "attendees": []
+    },
+    {
+      "id": 4582797,
+      "user": {
+        "id": "abc123",
+        "name": "Adam"
+      },
+      "category": "animal welfare",
+      "organizer": "Adam",
+      "title": "Puppy Parade",
+      "description": "Yay pups!",
+      "location": "Puptown ",
+      "date": "2019-02-02T23:27:00.000Z",
+      "time": "1:00",
+      "attendees": []
+    },
+    {
+      "category": "housing",
+      "organizer": {
+        "id": 1,
+        "name": "Lucas"
+      },
+      "title": "Quarentina",
+      "description": "Na quarentena",
+      "location": "At Home",
+      "date": "2020-04-01T13:51:00.000Z",
+      "time": "20:00",
+      "attendees": [],
+      "id": 8419989
+    },
+    {
+      "category": "education",
+      "organizer": {
+        "id": 1,
+        "name": "Lucas"
+      },
+      "title": "Studying music",
+      "description": "Snow (Hey Ho) - Red Hot Chilli Peppers",
+      "location": "In my room",
+      "date": "2020-04-18T18:02:00.000Z",
+      "time": "15:00",
+      "attendees": [],
+      "id": 8419990
+    },
+    {
+      "id": 4994494,
+      "category": "",
+      "organizer": {
+        "id": 1,
+        "name": "Lucas"
+      },
+      "title": "",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 851017,
+      "category": "food",
+      "title": "dasdsa",
+      "description": "sadasdsa",
+      "location": "asdasdas",
+      "date": "2020-04-21T18:10:00.000Z",
+      "time": "6:00",
+      "attendees": []
+    },
+    {
+      "id": 1223936,
+      "category": "nature",
+      "title": "asdsadsa",
+      "description": "asdasd",
+      "location": "sadasd",
+      "date": "2020-04-02T18:11:00.000Z",
+      "time": "7:00",
+      "attendees": []
+    },
+    {
+      "id": 5989789,
+      "category": "",
+      "title": "",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 6406319,
+      "category": "sustentability",
+      "title": "Lucas Evento",
+      "description": "Lucas EVento",
+      "location": "Lucas Eventos",
+      "date": "2020-04-01T18:27:00.000Z",
+      "time": "8:00",
+      "attendees": []
+    },
+    {
+      "id": 9746360,
+      "category": "animal welfare",
+      "title": "dsfdsf",
+      "description": "sdfsfd",
+      "location": "sdfsdf",
+      "date": "2020-04-01T18:31:00.000Z",
+      "time": "8:00",
+      "attendees": []
+    },
+    {
+      "id": 1241815,
+      "user": {
+        "id": 1,
+        "name": "Lucas"
+      },
+      "category": "",
+      "organizer": {
+        "id": 1,
+        "name": "Lucas"
+      },
+      "title": "",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 9040523,
+      "user": {
+        "id": 1,
+        "name": "Lucas"
+      },
+      "category": "",
+      "organizer": {
+        "id": 1,
+        "name": "Lucas"
+      },
+      "title": "",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 1894821,
+      "user": {
+        "id": 1,
+        "name": "Lucas"
+      },
+      "category": "",
+      "organizer": {
+        "id": 1,
+        "name": "Lucas"
+      },
+      "title": "",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 7860409,
+      "user": {
+        "id": 1,
+        "name": "Lucas"
+      },
+      "category": "",
+      "organizer": {
+        "id": 1,
+        "name": "Lucas"
+      },
+      "title": "",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 5806297,
+      "user": {
+        "id": 1,
+        "name": "Lucas"
+      },
+      "category": "sustentability",
+      "organizer": {
+        "id": 1,
+        "name": "Lucas"
+      },
+      "title": "Progress Bar",
+      "description": "Progress Bar",
+      "location": "Progress Bar",
+      "date": "2020-04-01T16:31:00.000Z",
+      "time": "18:00",
+      "attendees": []
+    },
+    {
+      "id": 4996469,
+      "user": {
+        "id": 1,
+        "name": "Lucas"
+      },
+      "category": "",
+      "organizer": {
+        "id": 1,
+        "name": "Lucas"
+      },
+      "title": "",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 6439640,
+      "user": {
+        "id": 1,
+        "name": "Lucas"
+      },
+      "category": "",
+      "organizer": {
+        "id": 1,
+        "name": "Lucas"
+      },
+      "title": "",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 7816504,
+      "user": {
+        "id": 1,
+        "name": "Lucas"
+      },
+      "category": "nature",
+      "organizer": {
+        "id": 1,
+        "name": "Lucas"
+      },
+      "title": "adasda",
+      "description": "sdasdasd",
+      "location": "asdasdsad",
+      "date": "2020-04-13T21:15:00.000Z",
+      "time": "7:00",
+      "attendees": []
+    },
+    {
+      "id": 7805438,
+      "user": {
+        "id": 1,
+        "name": "Lucas"
+      },
+      "category": "",
+      "organizer": {
+        "id": 1,
+        "name": "Lucas"
+      },
+      "title": "",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    }
+  ]
+}
